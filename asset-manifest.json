@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goisonberry/employee-directory/static/css/main.1a0bccf2.chunk.css",
+    "main.js": "/goisonberry/employee-directory/static/js/main.d66789d6.chunk.js",
+    "main.js.map": "/goisonberry/employee-directory/static/js/main.d66789d6.chunk.js.map",
+    "runtime-main.js": "/goisonberry/employee-directory/static/js/runtime-main.2c42741d.js",
+    "runtime-main.js.map": "/goisonberry/employee-directory/static/js/runtime-main.2c42741d.js.map",
+    "static/js/2.c7f7d248.chunk.js": "/goisonberry/employee-directory/static/js/2.c7f7d248.chunk.js",
+    "static/js/2.c7f7d248.chunk.js.map": "/goisonberry/employee-directory/static/js/2.c7f7d248.chunk.js.map",
+    "index.html": "/goisonberry/employee-directory/index.html",
+    "precache-manifest.d0400e6839398e323297766063a31a17.js": "/goisonberry/employee-directory/precache-manifest.d0400e6839398e323297766063a31a17.js",
+    "service-worker.js": "/goisonberry/employee-directory/service-worker.js",
+    "static/css/main.1a0bccf2.chunk.css.map": "/goisonberry/employee-directory/static/css/main.1a0bccf2.chunk.css.map",
+    "static/js/2.c7f7d248.chunk.js.LICENSE.txt": "/goisonberry/employee-directory/static/js/2.c7f7d248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c42741d.js",
+    "static/js/2.c7f7d248.chunk.js",
+    "static/css/main.1a0bccf2.chunk.css",
+    "static/js/main.d66789d6.chunk.js"
+  ]
+}
