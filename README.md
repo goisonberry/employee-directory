@@ -28,4 +28,4 @@ React.js, JavaScript, Express, Mongo, Mongoose, Node.js, JSX, CSS, and HTML.
 
 ![Profile Image](https://github.com/goisonberry.png?size=60)
 
-View the project at: .
+View the project at: https://goisonberry.github.io/employee-directory/
