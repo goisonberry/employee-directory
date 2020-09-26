@@ -14,13 +14,13 @@ The Employee Directory is the simplest way to view all employees at once and hav
 
 ## Usage
 
-Deployed App:
+Deployed App: https://goisonberry.github.io/employee-directory/
 
-Thumbnail:
+![Demo](./public/demo.PNG)
 
 ## Technology
 
-React.js, JavaScript, Express, Mongo, Mongoose, Node.js, JSX, CSS, and HTML.
+React.js, JavaScript, Express, Node.js, JSX, CSS, and HTML.
 
 ## Contact
 
